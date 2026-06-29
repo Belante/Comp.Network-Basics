@@ -1,9 +1,9 @@
-# How the networks
+# How the net(Works) - "get it?"
 > [!NOTE]
 > This is an independent study of computer networks for educational purposes and is ongoing.
 
 ## Introduction
-This is a collection of personal notes I wrote while studying computer networks and other related topics. The goal is to build a solid foundation of knowledge about information security and its fundamental principles. 
+This is a collection of personal notes I wrote while studying computer networks and other related topics. The goal is to build a solid foundation of knowledge about information security and its fundamentals. 
 
 ## References:
 - Kurose & Ross — Redes de Computadores e a Internet (8ª ed.);
