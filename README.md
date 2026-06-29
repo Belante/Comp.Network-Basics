@@ -1,3 +1,4 @@
+# How the networks
 > [!NOTE]
 > This is an independent study of computer networks for educational purposes and is ongoing.
 
